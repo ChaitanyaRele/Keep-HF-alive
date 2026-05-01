@@ -11,5 +11,5 @@
 # https://your-username-your-space.hf.space
 
 # Add your Space URLs below this line:
-https://huggingface.co/spaces/ChaitanyaALT/stUnetRefiner
-https://huggingface.co/spaces/alstonMl/Cyclone_Track_Prediction
+https://ChaitanyaALT-stUnetRefiner.hf.space
+https://alstonml-cyclone-track-prediction.hf.space
