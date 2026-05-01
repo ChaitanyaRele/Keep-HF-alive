@@ -11,5 +11,5 @@
 # https://your-username-your-space.hf.space
 
 # Add your Space URLs below this line:
-https://iamdivyam-llm-app-developer.hf.space/health
-https://iamdivyam-llm-quiz.hf.space
+https://huggingface.co/spaces/ChaitanyaALT/stUnetRefiner
+https://huggingface.co/spaces/alstonMl/Cyclone_Track_Prediction
